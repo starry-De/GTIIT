@@ -58,6 +58,7 @@
 
 ### 五、 冲击测试与韧脆转变 (Impact Testing & DBTT)
 使用 Charpy 或 Izod 摆锤冲击试验来测量材料在极高应变率和存在缺口条件下的断裂吸收功（冲击能量）。
+![alt text](image-3.png)
 
 * **韧脆转变温度 (Ductile-to-Brittle Transition Temperature, DBTT)**：
   许多材料在高温下表现出高冲击能量（韧性断裂），在低温下表现出低冲击能量（脆性断裂）。冲击能量随温度急剧下降的温度区间称为 DBTT。
